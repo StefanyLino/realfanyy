@@ -67,8 +67,9 @@ nav a:hover{
     text-decoration: underline;
 }
 
-.container img{
+img{
     display: flex;
+    position: absolute;
     top: 3rem;
-    left: 100%;
+    
 }
